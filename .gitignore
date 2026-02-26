@@ -7,7 +7,6 @@
 build/
 bin/
 obj/
-release/
 debug/
 
 # =========================
